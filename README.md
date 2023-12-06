@@ -3,7 +3,7 @@
 
 ## INSTALLING INSTRUCTION :)
 # Step 1: Download Composer
-# ![image](https://github.com/jakebartolay/vendor-and-investment-subsystem/assets/68772728/cda0c66d-763b-4c5a-819b-312c594a589d)[(Composer)][https://getcomposer.org/download/]
+[![image](https://github.com/jakebartolay/vendor-and-investment-subsystem/assets/68772728/cda0c66d-763b-4c5a-819b-312c594a589d)](https://getcomposer.org/download)
 # 
 # Here: 
 # Download Composer-setup.exe
